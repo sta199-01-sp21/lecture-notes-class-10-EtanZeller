@@ -1,6 +1,6 @@
 ---
 title: "Introduction to probability"
-author: ""
+author: "Etan Zeller maclean"
 date: ""
 output: html_document
 editor_options: 
